@@ -4,7 +4,7 @@ https://github.com/APrudente15/BrainBridgersLogo/assets/110691505/cb6409c2-fb5f-
 
 Intro and instructions URL here:
 
-https://github.com/APrudente15/BrainBridgersLogo/assets/110691505/312c8d07-a579-443f-ae77-79fa02f88272
+https://github.com/APrudente15/BrainBridgersLogo/assets/110691505/5ece48eb-d38c-4ad4-a07a-bb3532c12191
 
 
 how to generate this URL: 
